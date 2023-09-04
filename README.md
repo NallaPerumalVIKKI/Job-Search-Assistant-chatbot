@@ -39,3 +39,26 @@ Test your chatbot thoroughly to ensure it responds accurately and provides usefu
 Step 7: Deploy 
 
 If you want to make your chatbot accessible to others, consider deploying it as a web application, mobile app, or integrating it with messaging platforms like Slack or Facebook Messenger.
+
+
+USES:
+
+1. Job Listings: Provide job seekers with up-to-date job listings based on their preferences, including industry, location, job type, and experience level.
+Advanced Filters: Allow users to filter job listings by criteria such as salary, company size, and required skills.
+Job Alerts: Send job alerts to users when new job listings matching their criteria become available.
+Resume Assistance:
+
+2. Resume Building: Help users create or improve their resumes by providing guidance and tips on formatting, content, and keywords.
+Resume Parsing: Extract relevant information from user-submitted resumes to pre-fill job application forms.
+Interview Preparation:
+
+3. Interview Tips: Offer advice on how to prepare for job interviews, including common interview questions and appropriate answers.
+Mock Interviews: Conduct simulated job interviews to help users practice and improve their interview skills.
+Application Tracking:
+
+4. Application Status: Allow users to track the status of their job applications and receive notifications when there are updates.
+Application History: Maintain a history of job applications for reference.
+Career Guidance:
+
+5. Career Advice: Provide general career advice, guidance on career paths, and suggestions for skill development.
+Industry Insights: Offer insights into specific industries, including job market trends and salary ranges.
