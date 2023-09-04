@@ -3,8 +3,6 @@
 
 Step 1: Set Up the Development Environment
 
-Install Python: If you haven't already, install Python on your computer. You can download the latest version of Python from the official website (https://www.python.org/downloads/).
-
 Install Required Libraries: Install libraries such as openai (for GPT-3 interaction) and any other dependencies you may need.
 
 
