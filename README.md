@@ -4,7 +4,7 @@
 Step 1: Set Up the Development Environment
 
 Install Required Libraries: Install libraries such as openai (for GPT-3 interaction) and any other dependencies you may need.
-
+ 
 
 Step 2: Define Chatbot Functionality
 
